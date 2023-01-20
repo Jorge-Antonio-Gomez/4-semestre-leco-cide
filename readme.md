@@ -33,7 +33,7 @@ Este repositorio contiene los apuntes y archivos usados durante el 4° semestre 
 
 ## Archivos y enlaces
 
-- [El conocimiento se comparte](https://drive.google.com/drive/folders/1eXseXTehCjy4BvZi7Z3HJvoV65UGyQes?usp=share_link)
-- [Archivos generales del semestre](https://drive.google.com/drive/folders/1-14eY0vjqH2L3JnXoapMLHvs5UXhXBnU?usp=sharing)
-- [Teams](https://teams.microsoft.com/_#/school/teams-grid/General?ctx=teamsGrid)
-- [Archivos y enlaces de referencia (CIDE)](https://www.notion.so/Documentos-de-referencia-y-formato-CIDE-d192ac1bfa294e15b589bebc9844bfb0)
+- [El conocimiento se comparte (Apuntes de Alejandro, Drive)](https://drive.google.com/drive/folders/1eXseXTehCjy4BvZi7Z3HJvoV65UGyQes?usp=share_link)
+- [Archivos generales del semestre (Drive)](https://drive.google.com/drive/folders/1-14eY0vjqH2L3JnXoapMLHvs5UXhXBnU?usp=sharing)
+- [Microsoft Teams (Drecto)](https://teams.microsoft.com/_#/school/teams-grid/General?ctx=teamsGrid)
+- [Archivos y enlaces de referencia (Notion)](https://www.notion.so/Documentos-de-referencia-y-formato-CIDE-d192ac1bfa294e15b589bebc9844bfb0)
