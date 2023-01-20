@@ -19,3 +19,4 @@ test/
 
 # Exclusiones
 !generales/latex_libraries.tex
+# !latex_libraries.tex
