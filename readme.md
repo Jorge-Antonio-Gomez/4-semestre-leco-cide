@@ -6,4 +6,8 @@
 
 ---
 
-Este repositorio contiene los apuntes y archivos usados durante el 4° semestre de la Lic. en Economía del CIDE. 
+Este repositorio contiene los apuntes y archivos usados durante el 4° semestre de la Lic. en Economía del CIDE.
+
+# Contenido relevante del repositorio
+
+- [Apuntes de Estadística II]()
