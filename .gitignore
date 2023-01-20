@@ -1,3 +1,4 @@
+# Inclusiones
 *.aux
 *.fdb_latexmk
 *.fls
@@ -15,3 +16,6 @@
 el_conocimiento_se_comparte/
 generales/
 test/
+
+# Exclusiones
+!generales/latex_libraries.tex
