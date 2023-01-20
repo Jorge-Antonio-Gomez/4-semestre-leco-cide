@@ -1,0 +1,16 @@
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.synctex.gz(busy)
+*.toc
+*.bbl
+*.blg
+
+*.identifier
+
+el_conocimiento_se_comparte/
+generales/
+test/
