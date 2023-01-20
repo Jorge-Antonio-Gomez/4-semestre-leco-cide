@@ -14,9 +14,9 @@
 *.pdf:Zone.Identifier
 
 el_conocimiento_se_comparte/
-generales/
+generales/*
 test/
 
 # Exclusiones
 !generales/latex_libraries.tex
-!latex_libraries.tex
+# !\latex_libraries.tex

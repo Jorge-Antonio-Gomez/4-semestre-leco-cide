@@ -1,0 +1,90 @@
+\documentclass[12pt]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage[margin=2.5cm]{geometry}
+
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{mathtools}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{hyperref}
+    % \usepackage[
+    %     bookmarks=true,
+    %     bookmarksnumbered=true,
+    %     bookmarksopen=true,
+    %     pdfpagemode=UseOutlines,
+    %     pdfstartview=FitH,
+    %     colorlinks=true,
+    %     linkcolor=blue,
+    %     citecolor=black,
+    %     urlcolor=black,
+    % ]{hyperref}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage{pgfplots}
+\usepackage{lipsum}
+\usepackage{parskip}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{calc}
+\usepackage{array}
+
+% Newcommand with document information:
+\newcommand{\Title}[2][Apuntes de clase]
+{\title{
+
+    \Large{Centro de Investigación y Docencia Económicas \\ 
+    CIDE} \\ 
+    \vspace*{2.5cm}
+
+    \Large{\textbf{#1}} \\
+    \vspace*{0.1em}
+    \huge{\textbf{#2}} \\
+    \vspace*{0.1em}
+    \Large{Licenciatura en Economía} \\ 
+    \Large{4to semestre} \\ 
+    \vspace*{1.5cm}
+    }
+    
+    \author{Jorge Antonio Gómez García}
+    \date{\today}
+    
+}
+
+% Date format at right side:
+\newcommand{\Date}[1]
+{
+    \vspace*{1em} \hfill \large{\textbf{#1}} \vspace*{1em}
+}
+
+% Centered line at left side:
+\def\Chrulefill{\leavevmode\leaders\hrule height 0.7ex depth \dimexpr0.4pt-0.7ex\hfill\kern0pt}
+
+% Date format at right side with a line in the left side:
+\newcommand{\DateLine}[1]
+{
+    \vspace*{1em} \Chrulefill  \hspace*{1em} \large{\textbf{#1}}\hspace*{1em} \Chrulefill \vspace*{1em}
+}
+
+% Formato de capítulos
+% \newcommand{\caja}[1]{\centering \fboxsep=5mm \fbox{\begin{minipage}{0.8\linewidth}
+%     \centering \LARGE\bfseries #1
+% \end{minipage}}}
+%     \titleformat{\chapter}[display]
+%     {\Large{\filcenter\itshape}}
+%     {\centering Capítulo \thechapter}
+%     {-1mm}
+%     {\caja}
+
+    \titleformat{\chapter}[frame]
+    {\normalfont}{\filcenter\small \ TEMA \thechapter \ }
+    {7pt}{\Large\bfseries\filcenter}
