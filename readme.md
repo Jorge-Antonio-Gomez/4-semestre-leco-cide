@@ -15,7 +15,7 @@ Este repositorio contiene los apuntes y archivos usados durante el 4° semestre 
 
     - [Apuntes del Laboratorio de Estadística II](https://github.com/Jorge-Antonio-Gomez/4-semestre-leco-cide/blob/c2ca8d2b727b18ce709120860de38bc3cfb5524d/01_Estad%C3%ADstica%20II/apuntes/Laboratorio_Estad%C3%ADstica.pdf)
 
-- [Apuntes de Historia del Pensamiento Occidental](https://github.com/Jorge-Antonio-Gomez/-4-semestre-leco-cide/blob/d348639696e51a01c5290ad909bda4f253bbaac9/02_Historia%20del%20Pensamiento%20Occidental/apuntes/Apuntes_Historia.pdf)
+- [Apuntes de Historia del Pensamiento Occidental]()
 
 - [Apuntes de Matemáticas IV](https://github.com/Jorge-Antonio-Gomez/-4-semestre-leco-cide/blob/d348639696e51a01c5290ad909bda4f253bbaac9/03_Matem%C3%A1ticas%20IV/apuntes/Apuntes_Matem%C3%A1ticas.pdf)
 
